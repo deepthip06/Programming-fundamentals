@@ -1,0 +1,9 @@
+// Algorithm for finding the second largest number.
+step 1: start
+step 2: Declare and read the size of the array
+step 3: Declare and read the elements
+step 4: Get the input elements
+Step 5: Arrange in descending order
+step 6: Find the second largest number using the index
+step 7: Print the second largest number
+step 8: Stop
